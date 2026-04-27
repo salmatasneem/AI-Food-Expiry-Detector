@@ -1,4 +1,4 @@
-# 🥫 AI Food Expiry Date Detector
+# 🥫 AI Food Expiry Date Detector 
 
 The **AI Food Expiry Date Detector** is a Streamlit-based web application that detects **Manufacturing Date (MFD)** and **Expiry Date (EXP)** from food package images using **OCR (Optical Character Recognition)**.
 
